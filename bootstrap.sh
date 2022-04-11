@@ -12,4 +12,7 @@ apt install -y vim tmux
 
 apt install -y php python python3 sqlite3
 
-apt install -y transmission 
+apt install -y transmission-cli transmission-common transmission-daemon vlc lollypop
+
+snap install blender --classic
+
